@@ -1,0 +1,6 @@
+canvas 100 100
+circle 3 10 50 50
+line 2 20 20 80 43
+polyline 1 30 30 50 40 80 20
+polyfill 10 10 50 90 90 10 10 10
+circle 5 20 50 50
